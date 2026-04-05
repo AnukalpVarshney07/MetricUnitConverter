@@ -32,7 +32,7 @@
 ## 🖼️ Preview
 
 <p align="center">
-  <img src="https://via.placeholder.com/800x400.png?text=Unit+Converter+Preview" alt="preview">
+  <img src="image.png" alt="preview">
 </p>
 
 ---
